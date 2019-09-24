@@ -1,0 +1,10 @@
+2019-09-19T12:44:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\wordpress\news\wp-content\plugins\wpforms-lite\includes\class-templates.php, na linha 59
+
+2019-09-19T12:46:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\wordpress\news\wp-content\plugins\wpforms-lite\includes\admin\class-importers.php, na linha 12
+
+2019-09-19T12:48:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\wordpress\news\wp-content\plugins\wpforms-lite\vendor\symfony\polyfill-mbstring\bootstrap.php, na linha 14
+
+2019-09-19T12:49:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\wordpress\news\wp-includes\wp-db.php, na linha 2007
+
+2019-09-19T12:55:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\wordpress\news\wp-admin\includes\file.php, na linha 1140
+
